@@ -1,5 +1,3 @@
-!pip install --upgrade google-cloud-aiplatform
-
 import base64
 import vertexai
 from vertexai.generative_models import GenerativeModel, SafetySetting, Part
